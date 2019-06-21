@@ -1,0 +1,36 @@
+Avtor knjige je alaAvtor
+Naslov knjige je naslovin na volju jih je 3
+Nazadnje je bila izposojena 2.1.2014
+in bo vrnjena 2.2.2014
+Knjiga je na zalogi
+
+Avtor knjige je Avtor1
+Naslov knjige je naslovin na volju jih je 1
+Nazadnje je bila izposojena 2.1.2014
+in bo vrnjena 2.2.2014
+Knjiga je na zalogi
+
+Avtor knjige je Avtor2
+Naslov knjige je naslovin na volju jih je 6
+Nazadnje je bila izposojena 2.1.2014
+in bo vrnjena 2.2.2014
+Knjiga je na zalogi
+
+Avtor knjige je Avtor3
+Naslov knjige je naslovin na volju jih je 2
+Nazadnje je bila izposojena 2.1.2014
+in bo vrnjena 2.2.2014
+Knjiga je na zalogi
+
+Avtor knjige je Avtor4
+Naslov knjige je naslovin na volju jih je 10
+Nazadnje je bila izposojena 2.1.2014
+in bo vrnjena 2.2.2014
+Knjiga je na zalogi
+
+Avtor knjige je wer
+Naslov knjige je werin na volju jih je 7696
+Nazadnje je bila izposojena 769.528.769
+in bo vrnjena 528.528.528
+Knjiga je na zalogi
+
